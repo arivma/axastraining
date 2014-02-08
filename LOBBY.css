@@ -1,0 +1,42 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+	
+/*全体の枠組み*/
+#container{
+	width: 900px;
+	margin: 0 auto;
+}
+
+/*上半分*/
+#TOP{
+	width: 800px;
+	height: 400px;
+	margin: 0 auto;
+	float: left;
+	background-color: #f0f8ff;
+}
+
+/*下半分*/
+#BOTTOM{
+	width: 800px;
+	height: 400px;
+	margin: 0 auto;
+	float: left;
+}
+
+/*ルール説明*/
+#rules{
+	width: 350px;
+	float: left;
+	margin: 25px;
+}
+
+/*参加者ログ*/
+#logs{
+	width: 350px;
+	float: left;
+	margin: 25px;
+}
+
